@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "Hello"
 ps -ef
-exit 1
